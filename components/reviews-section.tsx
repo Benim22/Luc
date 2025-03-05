@@ -28,7 +28,7 @@ const testimonials = [
     title: "Grundare, E-commerce Plus",
   },
   {
-    quote: "Deras expertis inom webutveckling och design har hjälpt oss att sticka ut på marknaden.",
+    quote: "Deras expertis inom webbutveckling och design har hjälpt oss att sticka ut på marknaden.",
     name: "Sofia Ekström",
     title: "Produktchef, Design & Co",
   },

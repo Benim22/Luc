@@ -69,7 +69,7 @@ export default function AboutSection() {
             <h2 className="text-3xl font-bold mb-6">Om Lucelli</h2>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
               Lucelli är ett digitalt tjänsteföretag som fokuserar på att leverera högkvalitativa digitala lösningar för
-              företag i alla storlekar. Med vår expertis inom webutveckling, grafisk design, AI-lösningar och SEO
+              företag i alla storlekar. Med vår expertis inom webbutveckling, grafisk design, AI-lösningar och SEO
               hjälper vi våra kunder att stärka sin digitala närvaro.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">

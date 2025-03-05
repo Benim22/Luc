@@ -107,7 +107,7 @@ export default function ContactPage() {
                 />
               </div>
 
-              <Button type="submit" className="w-full" disabled={isSubmitting}>
+              <Button type="submit" variant="hover-shimmer" className="w-full" disabled={isSubmitting}>
                 {isSubmitting ? "Skickar..." : "Skicka Meddelande"}
               </Button>
             </form>

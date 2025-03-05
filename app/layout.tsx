@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Lucelli - Digitala Tjänster",
-  description: "Webutveckling, Grafisk Design, AI, SEO och mer",
+  description: "Webbutveckling, Grafisk Design, AI, SEO och mer",
     generator: 'v0.dev'
 }
 

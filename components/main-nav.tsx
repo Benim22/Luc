@@ -18,7 +18,7 @@ export default function MainNav() {
   }, [])
 
   const mainNavLinks = [
-    { name: "Webutveckling", href: "/tjanster#webutveckling" },
+    { name: "Webbutveckling", href: "/tjanster#webbutveckling" },
     { name: "Grafisk Design", href: "/tjanster#design" },
     { name: "AI-lösningar", href: "/tjanster#ai" },
     { name: "SEO", href: "/tjanster#seo" },

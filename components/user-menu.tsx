@@ -19,7 +19,7 @@ export function UserMenu() {
   if (!isAuthenticated) {
     return (
       <Button variant="shimmer" asChild>
-        <Link href="/auth/signin">Logga in</Link>
+        <Link href="/auth/signin">Boka Möte</Link>
       </Button>
     )
   }

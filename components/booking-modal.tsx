@@ -132,7 +132,7 @@ export default function BookingModal({ open, onOpenChange }: BookingModalProps) 
                     <SelectValue placeholder="Välj tjänst" />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="webutveckling">Webutveckling</SelectItem>
+                    <SelectItem value="webbutveckling">Webbutveckling</SelectItem>
                     <SelectItem value="grafisk-design">Grafisk Design</SelectItem>
                     <SelectItem value="ai-losningar">AI-lösningar</SelectItem>
                     <SelectItem value="seo">SEO-optimering</SelectItem>

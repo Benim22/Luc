@@ -49,7 +49,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link href="/tjanster" className="text-gray-400 hover:text-white transition-colors">
-                  Webutveckling
+                  Webbutveckling
                 </Link>
               </li>
               <li>

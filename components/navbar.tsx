@@ -135,16 +135,7 @@ export default function Navbar() {
             ))}
             <div className="flex items-center gap-4 mt-4">
               <ThemeToggle />
-              <Button
-                onClick={() => {
-                  setShowModal(true)
-                  setIsOpen(false)
-                }}
-                variant="hover-shimmer"
-                className="w-full"
-              >
-                Boka Möte
-              </Button>
+              
             </div>
           </div>
         </div>

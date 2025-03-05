@@ -101,7 +101,7 @@ const parallaxProjects = [
 // Regular portfolio projects data
 const categories = [
   { id: "all", name: "Alla" },
-  { id: "web", name: "Webutveckling" },
+  { id: "web", name: "Webbutveckling" },
   { id: "design", name: "Grafisk Design" },
   { id: "ai", name: "AI-lösningar" },
   { id: "seo", name: "SEO" },
@@ -182,7 +182,7 @@ export default function PortfolioPage() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold mb-4">Utforska våra projekt</h2>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            Upptäck vårt breda utbud av framgångsrika projekt inom webutveckling, grafisk design, AI-lösningar och SEO.
+            Upptäck vårt breda utbud av framgångsrika projekt inom webbutveckling, grafisk design, AI-lösningar och SEO.
           </p>
         </div>
 

@@ -40,7 +40,7 @@ export default function Hero() {
         >
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Digitala lösningar för framtidens företag</h1>
           <p className="text-xl text-white/90 mb-8">
-            Webutveckling, grafisk design, AI-lösningar och SEO-optimering för att stärka ditt företags digitala
+            Webbutveckling, grafisk design, AI-lösningar och SEO-optimering för att stärka ditt företags digitala
             närvaro.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -52,7 +52,7 @@ export default function Hero() {
             <Link href="/auth/signin">
               <Button
                 size="lg"
-                className="text-lg bg-transparent hover:bg-white/20 text-white border-2 border-white/50 backdrop-blur-sm"
+                className="text-lg bg-transparent hover:bg-white/20 text-white border-2 border-white/50 backdrop-blur-sm" 
               >
                 Logga In
               </Button>

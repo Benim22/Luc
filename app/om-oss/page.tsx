@@ -17,7 +17,7 @@ export default function AboutPage() {
             <p className="text-lg text-gray-700 mb-6">
               Lucelli grundades 2015 med en vision om att hjälpa företag att navigera i den digitala världen. Vad som
               började som ett litet team av passionerade utvecklare har vuxit till ett fullservice digitalt
-              tjänsteföretag med expertis inom webutveckling, grafisk design, AI-lösningar och SEO.
+              tjänsteföretag med expertis inom webbutveckling, grafisk design, AI-lösningar och SEO.
             </p>
             <p className="text-lg text-gray-700 mb-6">
               Under åren har vi haft förmånen att arbeta med hundratals kunder, från små startups till stora etablerade

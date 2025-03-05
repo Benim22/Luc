@@ -10,11 +10,11 @@ import { AnimatedCard } from "@/components/animated-card"
 const services = [
   {
     id: 1,
-    title: "Webutveckling",
+    title: "Webbutveckling",
     description: "Moderna, responsiva webbplatser och applikationer",
     icon: "🌐",
     content: `
-      <h3>Professionell Webutveckling</h3>
+      <h3>Professionell Webbutveckling</h3>
       <p>Vi skapar skräddarsydda webbplatser och applikationer med fokus på användarupplevelse, prestanda och design.</p>
       <ul>
         <li><strong>Responsiv design</strong> för alla enheter</li>

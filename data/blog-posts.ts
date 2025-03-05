@@ -3,14 +3,14 @@ import type { BlogPost } from "@/types/blog"
 export const blogPosts: BlogPost[] = [
   {
     id: "1",
-    title: "Framtidens Webutveckling: Trender att Hålla Koll På",
-    slug: "framtidens-webutveckling-trender",
+    title: "Framtidens Webbutveckling: Trender att Hålla Koll På",
+    slug: "framtidens-webbutveckling-trender",
     excerpt:
-      "Utforska de senaste trenderna inom webutveckling och hur de formar framtidens digitala landskap. Från AI-driven utveckling till WebAssembly.",
+      "Utforska de senaste trenderna inom webbutveckling och hur de formar framtidens digitala landskap. Från AI-driven utveckling till WebAssembly.",
     content: `
-      # Framtidens Webutveckling: Trender att Hålla Koll På
+      # Framtidens Webbutveckling: Trender att Hålla Koll På
 
-      I en värld där digital närvaro blir allt viktigare, utvecklas webutvecklingen i en rasande takt. Här är några av de viktigaste trenderna att hålla koll på under kommande år.
+      I en värld där digital närvaro blir allt viktigare, utvecklas webbutvecklingen i en rasande takt. Här är några av de viktigaste trenderna att hålla koll på under kommande år.
 
       ## 1. AI-Driven Utveckling
       Artificiell intelligens revolutionerar hur vi bygger och underhåller webbplatser. Från automatiserad kodgenerering till intelligenta användarupplevelser, AI är här för att stanna.
@@ -22,15 +22,15 @@ export const blogPosts: BlogPost[] = [
       Moderna arkitekturer som Jamstack fortsätter att växa i popularitet, med fokus på prestanda och säkerhet.
 
       ## Slutsats
-      Framtidens webutveckling handlar om att kombinera dessa teknologier för att skapa snabbare, säkrare och mer användarvänliga webbplatser.
+      Framtidens webbutveckling handlar om att kombinera dessa teknologier för att skapa snabbare, säkrare och mer användarvänliga webbplatser.
     `,
-    coverImage: "/placeholder.svg?height=600&width=1200&text=Webutveckling",
+    coverImage: "/placeholder.svg?height=600&width=1200&text=Webbutveckling",
     publishedAt: "2024-02-15",
     author: {
       name: "Erik Andersson",
       avatar: "/placeholder.svg?height=100&width=100&text=EA",
     },
-    tags: ["Webutveckling", "AI", "Teknologi"],
+    tags: ["Webbutveckling", "AI", "Teknologi"],
   },
   {
     id: "2",
